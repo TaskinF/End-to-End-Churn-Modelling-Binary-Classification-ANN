@@ -2,6 +2,7 @@ tensorflow==2.17.0
 pandas 
 numpy 
 scikit-learn
+feature_engine
 tensorboard
 matplotlib
 streamlit
